@@ -1,0 +1,14 @@
+{
+  "name": "More Dust and Materials",
+  "folder": "phantombladezero_moredustandmaterials",
+  "author": "Kintaro",
+  "version": "1.1",
+  "description": "More Dust and upgrade materials from enemies, loot piles and chests, x2 as installed, any multiplier from 1 to 10, set live: separate multipliers for Dust and for Blackstone and Amber fragments, optional camp rewards. A PBZModLoader mod; settings in a text file in its folder, or on its Mods Menu page.",
+  "kind": "pbzmodloader",
+  "game": "phantombladezero",
+  "gameFolder": "PBZ",
+  "modsPath": "ProjectPBZ\\PBZModLoader\\mods",
+  "gameVersion": "CL-302256_JKS-17280",
+  "engine": "UE5_7",
+  "pbzmodloader": "2.1.0"
+}

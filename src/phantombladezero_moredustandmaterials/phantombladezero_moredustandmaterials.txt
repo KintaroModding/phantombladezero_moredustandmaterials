@@ -1,0 +1,12 @@
+; More Dust and Materials settings. Change a value and save; the game picks it up within 2 seconds.
+; Multiplier: 1 to 10, upgrade materials from loot piles and chests (1 = the game's own amount, 2 doubles it; the mod starts at 2). Dust follows it while DustMultiplier is Same.
+; DustMultiplier: Same, or 1 to 10: Dust from enemies, loot piles and chests.
+; FragmentMultiplier: 1 to 10: Blackstone and Amber fragments from loot piles, chests and the rewards for clearing a group of enemies. Four make a Blackstone or an Amber, which raise your stats for good.
+; CampRewards: On: the upgrade materials and Dust for clearing a group of enemies follow the multipliers too.
+; MaterialsOnly=On keeps Dust as it is; DustOnly=On keeps upgrade materials as they are (both kept for older files).
+Multiplier=2
+DustMultiplier=Same
+FragmentMultiplier=1
+CampRewards=Off
+MaterialsOnly=Off
+DustOnly=Off

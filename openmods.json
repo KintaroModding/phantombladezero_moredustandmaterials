@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "More Dust and Materials",
+  "summary": "More Dust and upgrade materials from enemies, loot piles and chests, 1 to 10 times, with separate Dust and fragment multipliers. A PBZModLoader mod.",
+  "games": ["phantom-blade-zero"],
+  "tags": ["gameplay", "items"],
+  "requires": ["PBZModLoader (tested with 2.1.0)"],
+  "gameVersions": ["Steam build 26367565"],
+  "cover": "docs/cover.png"
+}
