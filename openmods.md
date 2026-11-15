@@ -20,7 +20,7 @@ stay as in the game until you raise their multiplier.
 
 ## Screenshots
 
-![More Dust and Materials](docs/cover.png)
+![More Dust and Materials](docs/cover.webp)
 
 ## How to install
 
